@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [me.mannydigital.com](me.mannydigital.com)
 
-- 👨‍💻 C.V [manny-digital.vercel.app](manny-digital.vercel.app)
+- 👨‍💻 C.V (manny-digital.vercel.app)
 
 - 💬 Ask me about **React, NextJs and MongoDb**
 
