@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mannyedk@gmail.com**
 
-<h3 align="left">Connect with me: [manny-digital.vercel.app](https://manny-digital.vercel.app/)</h3>
+<h3 align="left">Here is my C.V: (https://manny-digital.vercel.app/)</h3>
 <p align="left">
 </p>
 
