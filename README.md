@@ -7,11 +7,13 @@
 
 - 👨‍💻 All of my projects are available at [me.mannydigital.com](me.mannydigital.com)
 
+- 👨‍💻 C.V [manny-digital.vercel.app](manny-digital.vercel.app)
+
 - 💬 Ask me about **React, NextJs and MongoDb**
 
 - 📫 How to reach me **mannyedk@gmail.com**
 
-<h3 align="left">Here is my C.V: manny-digital.vercel.app</h3>
+<h3 align="left">Connect with me Today</h3>
 <p align="left">
 </p>
 
